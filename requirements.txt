@@ -1,0 +1,7 @@
+azure-identity=1.8.0
+azure-mgmt-datafactory=2.3.0
+pandas=1.2.3
+requests=2.27.1
+json=0.9.6
+dotenv
+
